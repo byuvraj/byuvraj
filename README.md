@@ -1,43 +1,42 @@
+<style>
+.animate-charcter
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 190px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+</style>
 <div align="center">
-<h2> 😊𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 
-const colorizeColors = [
-  Colors.purple,
-  Colors.blue,
-  Colors.yellow,
-  Colors.red,
-];
-
-const colorizeTextStyle = TextStyle(
-  fontSize: 50.0,
-  fontFamily: 'Horizon',
-);
-
-return SizedBox(
-  width: 250.0,
-  child: AnimatedTextKit(
-    animatedTexts: [
-      ColorizeAnimatedText(
-        'Engineers',
-        textStyle: colorizeTextStyle,
-        colors: colorizeColors,
-      ),
-      ColorizeAnimatedText(
-        '<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!',
-        textStyle: colorizeTextStyle,
-        colors: colorizeColors,
-      ),
-      ColorizeAnimatedText(
-        'And Humans',
-        textStyle: colorizeTextStyle,
-        colors: colorizeColors,
-      ),
-    ],
-    isRepeatingAnimation: true,
-    onTap: () {
-      print("Tap Event");
-    },
-  ),
-);</h2>
+<h2> 😊𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰</h2><br>
+  <div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h3 class="animate-charcter"> EKOSH</h3>
+    </div>
+  </div>
+</div>
   <h1> I am Yuvraj!</h1>
 </div>
 
