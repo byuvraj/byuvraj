@@ -1,5 +1,43 @@
 <div align="center">
-<h2> 😊𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+<h2> 😊𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 
+const colorizeColors = [
+  Colors.purple,
+  Colors.blue,
+  Colors.yellow,
+  Colors.red,
+];
+
+const colorizeTextStyle = TextStyle(
+  fontSize: 50.0,
+  fontFamily: 'Horizon',
+);
+
+return SizedBox(
+  width: 250.0,
+  child: AnimatedTextKit(
+    animatedTexts: [
+      ColorizeAnimatedText(
+        'Engineers',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        '<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        'And Humans',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+    ],
+    isRepeatingAnimation: true,
+    onTap: () {
+      print("Tap Event");
+    },
+  ),
+);</h2>
   <h1> I am Yuvraj!</h1>
 </div>
 
