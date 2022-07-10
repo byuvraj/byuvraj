@@ -1,10 +1,8 @@
 <div align="center">
 <h2> 😊𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰</h2><br>
-  <div class="row">
     <div class="col-md-12 text-center">
       <h1>Developers!</h1>
-  </div>
-</div>
+    </div>
   <h1> I am Yuvraj!</h1>
 </div>
 
