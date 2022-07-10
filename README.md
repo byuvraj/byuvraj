@@ -8,7 +8,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything on Facebook Instagram or Linked Check below for profile links
-or <a href="mailto:yuvrajbhalekar1@gmail.com"><b>email</b></a> me
+or <a href="mailto:bhalekaryuvraj1@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
@@ -21,7 +21,12 @@ or <a href="mailto:yuvrajbhalekar1@gmail.com"><b>email</b></a> me
 </br>
 
 ---
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byuvvraj&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <i>Follow me around the web:</i><br>
 
 
