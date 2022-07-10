@@ -25,7 +25,7 @@ or <a href="mailto:yuvrajbhalekar1@gmail.com"><b>email</b></a> me
 <i>Follow me around the web:</i><br>
 
 
-<a target="_blank" href="www.linkedin.com/in/yuvraj-bhalekar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a target="_blank" href="https://www.linkedin.com/in/yuvraj-bhalekar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a target="_blank" href="https://www.instagram.com/er.yuvraj__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a target="_blank" href="https://www.facebook.com/yuvraj.bhalekar.16" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
