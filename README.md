@@ -1,10 +1,12 @@
 <div align="center">
     <div class="col-md-12 text-center">
-      <img src="https://github.com/byuvraj/byuvraj/blob/main/welcome.gif"/>
+      <img height="180em" alt="Hello Developers!"  src="https://github.com/byuvraj/byuvraj/blob/main/welcome.gif"/>
     </div>
-  <h1> I am Yuvraj!</h1>
+<hr>
+<h2 style="font-family:Baskerville Old Face;"> I am Yuvraj!</h1>
+<h4>A web developer and contineous learner</h4>
 </div>
-
+<hr>
 <div align="center">
 
 You have finally discovered my Github profile. <br>
@@ -17,8 +19,9 @@ or <a href="mailto:bhalekaryuvraj1@gmail.com"><b>email</b></a> me
 </div>
 
 <div align="Left">
-🔭 I’m currently working on ...</div>
-
+🔭 I’m currently working on a wesite which will provide the user fascility to see and post the review about the book</div>
+<br>
+🌱 I’m currently learning React 
 
 </br>
 </br>
