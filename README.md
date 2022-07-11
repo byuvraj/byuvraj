@@ -1,7 +1,6 @@
 <div align="center">
     <div class="col-md-12 text-center">
-      <h2> 😊𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰</h2><br>
-      <h1>Developers!</h1>
+      ![](https://github.com/byuvraj/welcome.gif)
     </div>
   <h1> I am Yuvraj!</h1>
 </div>
@@ -9,7 +8,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+ <br>
 Ask me anything on Facebook Instagram or Linked Check below for profile links
 or <a href="mailto:bhalekaryuvraj1@gmail.com"><b>email</b></a> me
 
@@ -17,7 +16,8 @@ or <a href="mailto:bhalekaryuvraj1@gmail.com"><b>email</b></a> me
 
 </div>
 
-<div align="center">
+<div align="Left">
+🔭 I’m currently working on ...</div>
 
 
 </br>
