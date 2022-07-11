@@ -3,25 +3,38 @@
       <img height="180em" alt="Hello Developers!"  src="https://github.com/byuvraj/byuvraj/blob/main/welcome.gif"/>
     </div>
 <hr>
-<h2 style="font-family:Baskerville Old Face;"> I am Yuvraj!</h1>
-<h4>A web developer and contineous learner</h4>
+<p style="font-weight:900;font-size:2em;font-family:Baskerville Old Face;color:grey"> I am Yuvraj!</p>
+<h4>A web developer and contineous learner💻</h4>
 </div>
 <hr>
 <div align="center">
 
-You have finally discovered my Github profile. <br>
- <br>
+Finally I Got opportunity to<p style="font-weight:900;font-size:3em">Welcome You</p>to my Github profile.<br>
 Ask me anything on Facebook Instagram or Linked Check below for profile links
 or <a href="mailto:bhalekaryuvraj1@gmail.com"><b>email</b></a> me
+<hr/>
+<div align="Left">
+  Tools I use! 🛠️
+|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)||---|---|---|---|---|
+  <hr>
+  <br>
+  <br>
 
+🔭 I’m currently working on a small web application
+<br>
+<br>
+
+🌱 I’m currently learning React⚛️ 
+<br>
+<br>
+⚡  Fun fact: I Play video games 🎮
+</div>
 <i>Happy Coding!</i> 😊
 
 </div>
 
-<div align="Left">
-🔭 I’m currently working on a wesite which will provide the user fascility to see and post the review about the book</div>
-<br>
-🌱 I’m currently learning React 
+
+
 
 </br>
 </br>
