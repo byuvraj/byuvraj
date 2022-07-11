@@ -1,6 +1,6 @@
 <div align="center">
     <div class="col-md-12 text-center">
-      ![](https://github.com/byuvraj/welcome.gif)
+      ![](https://github.com/byuvraj/byuvraj/welcome.gif)
     </div>
   <h1> I am Yuvraj!</h1>
 </div>
