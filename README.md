@@ -9,13 +9,14 @@
 <hr>
 <div align="center">
 
-Finally I Got opportunity to<p style="font-weight:900;font-size:3em">Welcome You</p>to my Github profile.<br>
+Finally I Got opportunity to<h3 style="font-weight:900;font-size:3em">Welcome You</h3>to my Github profile.<br>
 Ask me anything on Facebook Instagram or Linked Check below for profile links
 or <a href="mailto:bhalekaryuvraj1@gmail.com"><b>email</b></a> me
 <hr/>
 <div align="Left">
-  Tools I use! 🛠️
-<a href="https://www.hackerrank.com/certificates/c0f8443e79e9">| ![]https://img.shields.io/static/v1?label=Python&message=Python&color=Green[]|</a>
+  Tools I use! 🛠️<br/>
+<a href="https://www.hackerrank.com/certificates/c0f8443e79e9"><img src="https://img.shields.io/badge/Python-darkred?style=for-the-badge&logo=python&logoColor=green"> </img></a><img src="https://img.shields.io/badge/CPP-black?style=for-the-badge&logo=c&logoColor=blue"></img> <img src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=yellow"> </img><img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp&logoColor=white"></img> <img src="https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=blue"></img> <img src="https://img.shields.io/badge/flask-darkgreen?style=for-the-badge&logo=flask&logoColor=white"></img> <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css&logoColor=white"></img>
+<br><div align="center"> 
   <hr>
   <br>
   <br>
