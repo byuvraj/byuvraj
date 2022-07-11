@@ -3,7 +3,7 @@
       <img height="180em" alt="Hello Developers!"  src="https://github.com/byuvraj/byuvraj/blob/main/welcome.gif"/>
     </div>
 <hr>
-<p style="font-weight:900;font-size:2em;font-family:Baskerville Old Face;color:grey"> I am Yuvraj!</p>
+<h2> I am Yuvraj!</h2>
 <h4>A web developer and contineous learner💻</h4>
 </div>
 <hr>
@@ -15,7 +15,7 @@ or <a href="mailto:bhalekaryuvraj1@gmail.com"><b>email</b></a> me
 <hr/>
 <div align="Left">
   Tools I use! 🛠️
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)||---|---|---|---|---|
+| ![]https://img.shields.io/static/v1?label=<Python>&message=<Python>&color=<Green>[]
   <hr>
   <br>
   <br>
