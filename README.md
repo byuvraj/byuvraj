@@ -15,7 +15,7 @@ or <a href="mailto:bhalekaryuvraj1@gmail.com"><b>email</b></a> me
 <hr/>
 <div align="Left">
   Tools I use! 🛠️
-| ![]https://img.shields.io/static/v1?label=<Python>&message=<Python>&color=<Green>[]
+<a href="https://www.hackerrank.com/certificates/c0f8443e79e9">| ![]https://img.shields.io/static/v1?label=Python&message=Python&color=Green[]|</a>
   <hr>
   <br>
   <br>
