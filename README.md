@@ -1,6 +1,6 @@
 <div align="center">
     <div class="col-md-12 text-center">
-      <img height="180em" alt="Hello Developers!"  src="https://github.com/byuvraj/byuvraj/blob/main/welcome.gif"/>
+      <img height="180em" alt="Hello Developers!"  src="https://github.com/byuvraj/byuvraj/blob/main/welcome1.gif"/>
     </div>
   <hr>
   <h2><b> I am <i>Yuvraj!</i></b></h2>
