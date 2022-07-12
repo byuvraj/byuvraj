@@ -31,6 +31,7 @@
     <br/>
     🌱 I’m currently learning React⚛️
     <br/>
+    <br/>
     ⚡  Fun fact: I Play video games 🎮
 </div>
 <br>
