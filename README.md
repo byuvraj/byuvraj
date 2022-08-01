@@ -49,9 +49,11 @@
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/byuvraj">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=byuvraj&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byuvraj&layout=compact&langs_count=8&theme=vue"/>
+<a href="https://github.com/byuvraj/github-stats">
+<img src="https://github.com/byuvraj/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/byuvraj/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/byuvraj/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/byuvraj/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 </p>
 <i>Follow me around the web:</i><br>
