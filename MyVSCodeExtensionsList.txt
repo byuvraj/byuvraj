@@ -1,0 +1,9 @@
+Extension pack for java
+ESLint
+HTML Boilerplate
+IntelliCode
+Material Icon
+One datrk pro
+Pylance
+Python Intellisence by microsoft
+Simple react snippent
