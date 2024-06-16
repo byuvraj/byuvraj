@@ -15,10 +15,10 @@
     Tools I use! 🛠️<br/>
   </div>
     <img src="https://img.shields.io/badge/dynamics365-purple?style=for-the-badge&logo=css&logoColor=gray"></img> 
+    <img src="https://img.shields.io/badge/CSharp-blue?style=for-the-badge&logo=csharp&logoColor=white"></img> 
     <a href="https://www.hackerrank.com/certificates/c0f8443e79e9"><img src="https://img.shields.io/badge/Python-darkred?style=for-the-badge&logo=python&logoColor=green"> </img></a>
     <img src="https://img.shields.io/badge/CPP-black?style=for-the-badge&logo=c&logoColor=blue"></img> 
     <img src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=yellow"> </img>
-    <img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp&logoColor=white"></img> 
     <img src="https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=blue"></img> 
     <img src="https://img.shields.io/badge/flask-darkgreen?style=for-the-badge&logo=flask&logoColor=white"></img> 
     <img src="https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css&logoColor=gray"></img>
