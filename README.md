@@ -27,13 +27,14 @@
     <br/>
     <br/>
     <div align="left">
-    🔭 I’m currently working on a small web application
+    🔭 I’m currently working as CRM developer at Hexaware technoligies. 
+    <br/> Additionally, developing small apps using react for good learning experience.
     <br/>
     <br/>
-    🌱 I’m currently learning React⚛️
+    🌱 I’m currently learning TypeScript
     <br/>
     <br/>
-    ⚡  Fun fact: I Play video games 🎮
+    ⚡  Fun fact: I automate stuff using Power Automate
 </div>
 <br>
 <br>
