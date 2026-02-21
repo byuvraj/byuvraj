@@ -3,16 +3,17 @@
       <img height="180em" alt="Hello Developers!"  src="https://github.com/byuvraj/byuvraj/blob/main/Welcome.gif"/>
     </div>
   <hr>
-  <h2><b> I am <i>Yuvraj!</i></b></h2>
-  <h4>A web developer and contineous learner💻</h4>
+  <h2><b> I am Yuvraj!</b></h2>
+  <h4>A MS dynamics365 developer by profession, passionate web developer and contineous learner💻</h4>
 </div>
-<hr>
+<hr/>
 <div align="center">
 
-  Finally I Got opportunity to<h1>Welcome You</h1>to my Github profile.<br>
-  <hr/>
+ <h1>Welcome You to my Github profile.</h1><br>
   <div align="Left">
-    Tools I use! 🛠️<br/>
+    <h2>
+      My Tools and skills! 🛠️<br/>
+    </h2>
   </div>
     <img src="https://img.shields.io/badge/dynamics365-purple?style=for-the-badge&logoColor=gray"></img> 
     <img src="https://img.shields.io/badge/CSharp-blue?style=for-the-badge&logo=c&logoColor=white"></img> 
