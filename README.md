@@ -30,8 +30,8 @@
         <p>⚡ Fun fact: I automate stuff using Power Automate</p>
     </div>
     <h1>
-        <i>Happy Coding!😊</i>
-    </h1>
+        <i>Happy Coding!</i>😊
+        </h1>
     <h3>⚙️ GitHub Analytics</h3>
     <p>
         <a href="https://github.com/byuvraj">
